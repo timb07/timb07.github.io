@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: articles
 title: About
 category: page
 tagline: "About this site"
