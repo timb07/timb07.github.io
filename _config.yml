@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title:
-description:
+title: Do what's required
+description: If we want to save the world, we must all do what's required.
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale:
-url:
+url: http://timb07.github.io/
 
 # Jekyll configuration
 
@@ -21,9 +21,9 @@ gems:
 
 # Site owner
 owner:
-  name:
-  email:
-  twitter:
+  name: Tim Bell
+  email: timothybell@gmail.com
+  twitter: timb07
   google:
     ad-client: 
     ad-slot: 
